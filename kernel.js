@@ -1,1 +1,0 @@
-document.getElementById("Seo").style.color = "green";
