@@ -1,0 +1,1 @@
+document.getElementById("Yul").style.color = "blue";
