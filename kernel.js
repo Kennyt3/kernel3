@@ -1,1 +1,1 @@
-document.getElementById("Yul").style.color = "blue";
+document.getElementById("Seo").style.color = "green";
